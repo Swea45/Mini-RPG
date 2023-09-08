@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mini-RPG", "Mini-RPG\Mini-RPG.vcxproj", "{B98054FF-AB16-452F-8AC5-CB6428BC74F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B98054FF-AB16-452F-8AC5-CB6428BC74F1}.Debug|x64.ActiveCfg = Debug|x64
+		{B98054FF-AB16-452F-8AC5-CB6428BC74F1}.Debug|x64.Build.0 = Debug|x64
+		{B98054FF-AB16-452F-8AC5-CB6428BC74F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{B98054FF-AB16-452F-8AC5-CB6428BC74F1}.Debug|x86.Build.0 = Debug|Win32
+		{B98054FF-AB16-452F-8AC5-CB6428BC74F1}.Release|x64.ActiveCfg = Release|x64
+		{B98054FF-AB16-452F-8AC5-CB6428BC74F1}.Release|x64.Build.0 = Release|x64
+		{B98054FF-AB16-452F-8AC5-CB6428BC74F1}.Release|x86.ActiveCfg = Release|Win32
+		{B98054FF-AB16-452F-8AC5-CB6428BC74F1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01BE4337-B7AD-445C-8D3C-60A0083FFF76}
+	EndGlobalSection
+EndGlobal
